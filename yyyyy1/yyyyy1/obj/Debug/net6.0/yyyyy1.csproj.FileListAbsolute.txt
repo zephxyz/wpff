@@ -1,0 +1,15 @@
+C:\Users\Kalhous Tomáš\source\repos\yyyyy1\yyyyy1\bin\Debug\net6.0\yyyyy1.exe
+C:\Users\Kalhous Tomáš\source\repos\yyyyy1\yyyyy1\bin\Debug\net6.0\yyyyy1.deps.json
+C:\Users\Kalhous Tomáš\source\repos\yyyyy1\yyyyy1\bin\Debug\net6.0\yyyyy1.runtimeconfig.json
+C:\Users\Kalhous Tomáš\source\repos\yyyyy1\yyyyy1\bin\Debug\net6.0\yyyyy1.dll
+C:\Users\Kalhous Tomáš\source\repos\yyyyy1\yyyyy1\bin\Debug\net6.0\ref\yyyyy1.dll
+C:\Users\Kalhous Tomáš\source\repos\yyyyy1\yyyyy1\bin\Debug\net6.0\yyyyy1.pdb
+C:\Users\Kalhous Tomáš\source\repos\yyyyy1\yyyyy1\obj\Debug\net6.0\yyyyy1.csproj.AssemblyReference.cache
+C:\Users\Kalhous Tomáš\source\repos\yyyyy1\yyyyy1\obj\Debug\net6.0\yyyyy1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalhous Tomáš\source\repos\yyyyy1\yyyyy1\obj\Debug\net6.0\yyyyy1.AssemblyInfoInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\yyyyy1\yyyyy1\obj\Debug\net6.0\yyyyy1.AssemblyInfo.cs
+C:\Users\Kalhous Tomáš\source\repos\yyyyy1\yyyyy1\obj\Debug\net6.0\yyyyy1.csproj.CoreCompileInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\yyyyy1\yyyyy1\obj\Debug\net6.0\yyyyy1.dll
+C:\Users\Kalhous Tomáš\source\repos\yyyyy1\yyyyy1\obj\Debug\net6.0\ref\yyyyy1.dll
+C:\Users\Kalhous Tomáš\source\repos\yyyyy1\yyyyy1\obj\Debug\net6.0\yyyyy1.pdb
+C:\Users\Kalhous Tomáš\source\repos\yyyyy1\yyyyy1\obj\Debug\net6.0\yyyyy1.genruntimeconfig.cache

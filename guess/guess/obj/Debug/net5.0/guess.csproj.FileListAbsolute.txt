@@ -1,0 +1,16 @@
+C:\Users\Kalhous Tomáš\source\repos\guess\guess\bin\Debug\net5.0\guess.exe
+C:\Users\Kalhous Tomáš\source\repos\guess\guess\bin\Debug\net5.0\guess.deps.json
+C:\Users\Kalhous Tomáš\source\repos\guess\guess\bin\Debug\net5.0\guess.runtimeconfig.json
+C:\Users\Kalhous Tomáš\source\repos\guess\guess\bin\Debug\net5.0\guess.runtimeconfig.dev.json
+C:\Users\Kalhous Tomáš\source\repos\guess\guess\bin\Debug\net5.0\guess.dll
+C:\Users\Kalhous Tomáš\source\repos\guess\guess\bin\Debug\net5.0\ref\guess.dll
+C:\Users\Kalhous Tomáš\source\repos\guess\guess\bin\Debug\net5.0\guess.pdb
+C:\Users\Kalhous Tomáš\source\repos\guess\guess\obj\Debug\net5.0\guess.csproj.AssemblyReference.cache
+C:\Users\Kalhous Tomáš\source\repos\guess\guess\obj\Debug\net5.0\guess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalhous Tomáš\source\repos\guess\guess\obj\Debug\net5.0\guess.AssemblyInfoInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\guess\guess\obj\Debug\net5.0\guess.AssemblyInfo.cs
+C:\Users\Kalhous Tomáš\source\repos\guess\guess\obj\Debug\net5.0\guess.csproj.CoreCompileInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\guess\guess\obj\Debug\net5.0\guess.dll
+C:\Users\Kalhous Tomáš\source\repos\guess\guess\obj\Debug\net5.0\ref\guess.dll
+C:\Users\Kalhous Tomáš\source\repos\guess\guess\obj\Debug\net5.0\guess.pdb
+C:\Users\Kalhous Tomáš\source\repos\guess\guess\obj\Debug\net5.0\guess.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Kalhous Tomáš\source\repos\testttt\testttt\bin\Debug\net5.0\testttt.exe
+C:\Users\Kalhous Tomáš\source\repos\testttt\testttt\bin\Debug\net5.0\testttt.deps.json
+C:\Users\Kalhous Tomáš\source\repos\testttt\testttt\bin\Debug\net5.0\testttt.runtimeconfig.json
+C:\Users\Kalhous Tomáš\source\repos\testttt\testttt\bin\Debug\net5.0\testttt.runtimeconfig.dev.json
+C:\Users\Kalhous Tomáš\source\repos\testttt\testttt\bin\Debug\net5.0\testttt.dll
+C:\Users\Kalhous Tomáš\source\repos\testttt\testttt\bin\Debug\net5.0\ref\testttt.dll
+C:\Users\Kalhous Tomáš\source\repos\testttt\testttt\bin\Debug\net5.0\testttt.pdb
+C:\Users\Kalhous Tomáš\source\repos\testttt\testttt\obj\Debug\net5.0\testttt.csproj.AssemblyReference.cache
+C:\Users\Kalhous Tomáš\source\repos\testttt\testttt\obj\Debug\net5.0\testttt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalhous Tomáš\source\repos\testttt\testttt\obj\Debug\net5.0\testttt.AssemblyInfoInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\testttt\testttt\obj\Debug\net5.0\testttt.AssemblyInfo.cs
+C:\Users\Kalhous Tomáš\source\repos\testttt\testttt\obj\Debug\net5.0\testttt.csproj.CoreCompileInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\testttt\testttt\obj\Debug\net5.0\testttt.dll
+C:\Users\Kalhous Tomáš\source\repos\testttt\testttt\obj\Debug\net5.0\ref\testttt.dll
+C:\Users\Kalhous Tomáš\source\repos\testttt\testttt\obj\Debug\net5.0\testttt.pdb
+C:\Users\Kalhous Tomáš\source\repos\testttt\testttt\obj\Debug\net5.0\testttt.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Kalhous Tomáš\source\repos\priklad1\priklad1\bin\Debug\net5.0\priklad1.exe
+C:\Users\Kalhous Tomáš\source\repos\priklad1\priklad1\bin\Debug\net5.0\priklad1.deps.json
+C:\Users\Kalhous Tomáš\source\repos\priklad1\priklad1\bin\Debug\net5.0\priklad1.runtimeconfig.json
+C:\Users\Kalhous Tomáš\source\repos\priklad1\priklad1\bin\Debug\net5.0\priklad1.runtimeconfig.dev.json
+C:\Users\Kalhous Tomáš\source\repos\priklad1\priklad1\bin\Debug\net5.0\priklad1.dll
+C:\Users\Kalhous Tomáš\source\repos\priklad1\priklad1\bin\Debug\net5.0\ref\priklad1.dll
+C:\Users\Kalhous Tomáš\source\repos\priklad1\priklad1\bin\Debug\net5.0\priklad1.pdb
+C:\Users\Kalhous Tomáš\source\repos\priklad1\priklad1\obj\Debug\net5.0\priklad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalhous Tomáš\source\repos\priklad1\priklad1\obj\Debug\net5.0\priklad1.AssemblyInfoInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\priklad1\priklad1\obj\Debug\net5.0\priklad1.AssemblyInfo.cs
+C:\Users\Kalhous Tomáš\source\repos\priklad1\priklad1\obj\Debug\net5.0\priklad1.csproj.CoreCompileInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\priklad1\priklad1\obj\Debug\net5.0\priklad1.dll
+C:\Users\Kalhous Tomáš\source\repos\priklad1\priklad1\obj\Debug\net5.0\ref\priklad1.dll
+C:\Users\Kalhous Tomáš\source\repos\priklad1\priklad1\obj\Debug\net5.0\priklad1.pdb
+C:\Users\Kalhous Tomáš\source\repos\priklad1\priklad1\obj\Debug\net5.0\priklad1.genruntimeconfig.cache
+C:\Users\Kalhous Tomáš\source\repos\priklad1\priklad1\obj\Debug\net5.0\priklad1.csproj.AssemblyReference.cache

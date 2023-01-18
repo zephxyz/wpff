@@ -1,0 +1,13 @@
+C:\Users\Kalhous Tomáš\source\repos\výpočty\výpočty\bin\Debug\netcoreapp3.1\výpočty.exe
+C:\Users\Kalhous Tomáš\source\repos\výpočty\výpočty\bin\Debug\netcoreapp3.1\výpočty.deps.json
+C:\Users\Kalhous Tomáš\source\repos\výpočty\výpočty\bin\Debug\netcoreapp3.1\výpočty.runtimeconfig.json
+C:\Users\Kalhous Tomáš\source\repos\výpočty\výpočty\bin\Debug\netcoreapp3.1\výpočty.runtimeconfig.dev.json
+C:\Users\Kalhous Tomáš\source\repos\výpočty\výpočty\bin\Debug\netcoreapp3.1\výpočty.dll
+C:\Users\Kalhous Tomáš\source\repos\výpočty\výpočty\bin\Debug\netcoreapp3.1\výpočty.pdb
+C:\Users\Kalhous Tomáš\source\repos\výpočty\výpočty\obj\Debug\netcoreapp3.1\výpočty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalhous Tomáš\source\repos\výpočty\výpočty\obj\Debug\netcoreapp3.1\výpočty.AssemblyInfoInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\výpočty\výpočty\obj\Debug\netcoreapp3.1\výpočty.AssemblyInfo.cs
+C:\Users\Kalhous Tomáš\source\repos\výpočty\výpočty\obj\Debug\netcoreapp3.1\výpočty.csproj.CoreCompileInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\výpočty\výpočty\obj\Debug\netcoreapp3.1\výpočty.dll
+C:\Users\Kalhous Tomáš\source\repos\výpočty\výpočty\obj\Debug\netcoreapp3.1\výpočty.pdb
+C:\Users\Kalhous Tomáš\source\repos\výpočty\výpočty\obj\Debug\netcoreapp3.1\výpočty.genruntimeconfig.cache

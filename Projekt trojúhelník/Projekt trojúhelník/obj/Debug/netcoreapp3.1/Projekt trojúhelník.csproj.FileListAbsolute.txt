@@ -1,0 +1,14 @@
+C:\Users\Kalhous Tomáš\source\repos\Projekt trojúhelník\Projekt trojúhelník\obj\Debug\netcoreapp3.1\Projekt trojúhelník.csproj.AssemblyReference.cache
+C:\Users\Kalhous Tomáš\source\repos\Projekt trojúhelník\Projekt trojúhelník\obj\Debug\netcoreapp3.1\Projekt trojúhelník.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalhous Tomáš\source\repos\Projekt trojúhelník\Projekt trojúhelník\obj\Debug\netcoreapp3.1\Projekt trojúhelník.AssemblyInfoInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\Projekt trojúhelník\Projekt trojúhelník\obj\Debug\netcoreapp3.1\Projekt trojúhelník.AssemblyInfo.cs
+C:\Users\Kalhous Tomáš\source\repos\Projekt trojúhelník\Projekt trojúhelník\obj\Debug\netcoreapp3.1\Projekt trojúhelník.csproj.CoreCompileInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\Projekt trojúhelník\Projekt trojúhelník\bin\Debug\netcoreapp3.1\Projekt trojúhelník.exe
+C:\Users\Kalhous Tomáš\source\repos\Projekt trojúhelník\Projekt trojúhelník\bin\Debug\netcoreapp3.1\Projekt trojúhelník.deps.json
+C:\Users\Kalhous Tomáš\source\repos\Projekt trojúhelník\Projekt trojúhelník\bin\Debug\netcoreapp3.1\Projekt trojúhelník.runtimeconfig.json
+C:\Users\Kalhous Tomáš\source\repos\Projekt trojúhelník\Projekt trojúhelník\bin\Debug\netcoreapp3.1\Projekt trojúhelník.runtimeconfig.dev.json
+C:\Users\Kalhous Tomáš\source\repos\Projekt trojúhelník\Projekt trojúhelník\bin\Debug\netcoreapp3.1\Projekt trojúhelník.dll
+C:\Users\Kalhous Tomáš\source\repos\Projekt trojúhelník\Projekt trojúhelník\bin\Debug\netcoreapp3.1\Projekt trojúhelník.pdb
+C:\Users\Kalhous Tomáš\source\repos\Projekt trojúhelník\Projekt trojúhelník\obj\Debug\netcoreapp3.1\Projekt trojúhelník.dll
+C:\Users\Kalhous Tomáš\source\repos\Projekt trojúhelník\Projekt trojúhelník\obj\Debug\netcoreapp3.1\Projekt trojúhelník.pdb
+C:\Users\Kalhous Tomáš\source\repos\Projekt trojúhelník\Projekt trojúhelník\obj\Debug\netcoreapp3.1\Projekt trojúhelník.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp35\ConsoleApp35\bin\Debug\ConsoleApp35.exe.config
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp35\ConsoleApp35\bin\Debug\ConsoleApp35.exe
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp35\ConsoleApp35\bin\Debug\ConsoleApp35.pdb
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp35\ConsoleApp35\obj\Debug\ConsoleApp35.csproj.AssemblyReference.cache
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp35\ConsoleApp35\obj\Debug\ConsoleApp35.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp35\ConsoleApp35\obj\Debug\ConsoleApp35.csproj.CoreCompileInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp35\ConsoleApp35\obj\Debug\ConsoleApp35.exe
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp35\ConsoleApp35\obj\Debug\ConsoleApp35.pdb

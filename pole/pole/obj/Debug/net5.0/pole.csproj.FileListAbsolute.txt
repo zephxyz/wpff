@@ -1,0 +1,16 @@
+C:\Users\Kalhous Tomáš\source\repos\pole\pole\bin\Debug\net5.0\pole.exe
+C:\Users\Kalhous Tomáš\source\repos\pole\pole\bin\Debug\net5.0\pole.deps.json
+C:\Users\Kalhous Tomáš\source\repos\pole\pole\bin\Debug\net5.0\pole.runtimeconfig.json
+C:\Users\Kalhous Tomáš\source\repos\pole\pole\bin\Debug\net5.0\pole.runtimeconfig.dev.json
+C:\Users\Kalhous Tomáš\source\repos\pole\pole\bin\Debug\net5.0\pole.dll
+C:\Users\Kalhous Tomáš\source\repos\pole\pole\bin\Debug\net5.0\ref\pole.dll
+C:\Users\Kalhous Tomáš\source\repos\pole\pole\bin\Debug\net5.0\pole.pdb
+C:\Users\Kalhous Tomáš\source\repos\pole\pole\obj\Debug\net5.0\pole.csproj.AssemblyReference.cache
+C:\Users\Kalhous Tomáš\source\repos\pole\pole\obj\Debug\net5.0\pole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalhous Tomáš\source\repos\pole\pole\obj\Debug\net5.0\pole.AssemblyInfoInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\pole\pole\obj\Debug\net5.0\pole.AssemblyInfo.cs
+C:\Users\Kalhous Tomáš\source\repos\pole\pole\obj\Debug\net5.0\pole.csproj.CoreCompileInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\pole\pole\obj\Debug\net5.0\pole.dll
+C:\Users\Kalhous Tomáš\source\repos\pole\pole\obj\Debug\net5.0\ref\pole.dll
+C:\Users\Kalhous Tomáš\source\repos\pole\pole\obj\Debug\net5.0\pole.pdb
+C:\Users\Kalhous Tomáš\source\repos\pole\pole\obj\Debug\net5.0\pole.genruntimeconfig.cache

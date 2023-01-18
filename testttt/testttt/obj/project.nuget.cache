@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BxuX2+Lj2k5Ric+KtokLpLbxr8Gi7rOIdXINmNhHOx6WlG+02Nihd40rrtxWOFOYoJ4k+EjQkg8agbmEabODVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kalhous Tomáš\\source\\repos\\testttt\\testttt\\testttt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kalhous Tomáš\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

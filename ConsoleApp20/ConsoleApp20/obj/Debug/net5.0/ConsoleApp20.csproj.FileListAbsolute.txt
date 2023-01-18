@@ -1,0 +1,16 @@
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.exe
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.deps.json
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.runtimeconfig.json
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.runtimeconfig.dev.json
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.dll
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\ref\ConsoleApp20.dll
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.pdb
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.csproj.AssemblyReference.cache
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.AssemblyInfoInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.AssemblyInfo.cs
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.csproj.CoreCompileInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.dll
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net5.0\ref\ConsoleApp20.dll
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.pdb
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.genruntimeconfig.cache

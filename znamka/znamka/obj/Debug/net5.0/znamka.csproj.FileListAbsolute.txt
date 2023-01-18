@@ -1,0 +1,16 @@
+C:\Users\Kalhous Tomáš\source\repos\znamka\znamka\bin\Debug\net5.0\znamka.exe
+C:\Users\Kalhous Tomáš\source\repos\znamka\znamka\bin\Debug\net5.0\znamka.deps.json
+C:\Users\Kalhous Tomáš\source\repos\znamka\znamka\bin\Debug\net5.0\znamka.runtimeconfig.json
+C:\Users\Kalhous Tomáš\source\repos\znamka\znamka\bin\Debug\net5.0\znamka.runtimeconfig.dev.json
+C:\Users\Kalhous Tomáš\source\repos\znamka\znamka\bin\Debug\net5.0\znamka.dll
+C:\Users\Kalhous Tomáš\source\repos\znamka\znamka\bin\Debug\net5.0\ref\znamka.dll
+C:\Users\Kalhous Tomáš\source\repos\znamka\znamka\bin\Debug\net5.0\znamka.pdb
+C:\Users\Kalhous Tomáš\source\repos\znamka\znamka\obj\Debug\net5.0\znamka.csproj.AssemblyReference.cache
+C:\Users\Kalhous Tomáš\source\repos\znamka\znamka\obj\Debug\net5.0\znamka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalhous Tomáš\source\repos\znamka\znamka\obj\Debug\net5.0\znamka.AssemblyInfoInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\znamka\znamka\obj\Debug\net5.0\znamka.AssemblyInfo.cs
+C:\Users\Kalhous Tomáš\source\repos\znamka\znamka\obj\Debug\net5.0\znamka.csproj.CoreCompileInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\znamka\znamka\obj\Debug\net5.0\znamka.dll
+C:\Users\Kalhous Tomáš\source\repos\znamka\znamka\obj\Debug\net5.0\ref\znamka.dll
+C:\Users\Kalhous Tomáš\source\repos\znamka\znamka\obj\Debug\net5.0\znamka.pdb
+C:\Users\Kalhous Tomáš\source\repos\znamka\znamka\obj\Debug\net5.0\znamka.genruntimeconfig.cache

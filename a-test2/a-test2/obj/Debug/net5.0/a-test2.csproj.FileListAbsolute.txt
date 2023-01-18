@@ -1,0 +1,15 @@
+C:\Users\Kalhous Tomáš\source\repos\a-test2\a-test2\bin\Debug\net5.0\a-test2.exe
+C:\Users\Kalhous Tomáš\source\repos\a-test2\a-test2\bin\Debug\net5.0\a-test2.deps.json
+C:\Users\Kalhous Tomáš\source\repos\a-test2\a-test2\bin\Debug\net5.0\a-test2.runtimeconfig.json
+C:\Users\Kalhous Tomáš\source\repos\a-test2\a-test2\bin\Debug\net5.0\a-test2.runtimeconfig.dev.json
+C:\Users\Kalhous Tomáš\source\repos\a-test2\a-test2\bin\Debug\net5.0\a-test2.dll
+C:\Users\Kalhous Tomáš\source\repos\a-test2\a-test2\bin\Debug\net5.0\ref\a-test2.dll
+C:\Users\Kalhous Tomáš\source\repos\a-test2\a-test2\bin\Debug\net5.0\a-test2.pdb
+C:\Users\Kalhous Tomáš\source\repos\a-test2\a-test2\obj\Debug\net5.0\a-test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalhous Tomáš\source\repos\a-test2\a-test2\obj\Debug\net5.0\a-test2.AssemblyInfoInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\a-test2\a-test2\obj\Debug\net5.0\a-test2.AssemblyInfo.cs
+C:\Users\Kalhous Tomáš\source\repos\a-test2\a-test2\obj\Debug\net5.0\a-test2.csproj.CoreCompileInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\a-test2\a-test2\obj\Debug\net5.0\a-test2.dll
+C:\Users\Kalhous Tomáš\source\repos\a-test2\a-test2\obj\Debug\net5.0\ref\a-test2.dll
+C:\Users\Kalhous Tomáš\source\repos\a-test2\a-test2\obj\Debug\net5.0\a-test2.pdb
+C:\Users\Kalhous Tomáš\source\repos\a-test2\a-test2\obj\Debug\net5.0\a-test2.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp28\ConsoleApp28\bin\Debug\net6.0\ConsoleApp28.exe
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp28\ConsoleApp28\bin\Debug\net6.0\ConsoleApp28.deps.json
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp28\ConsoleApp28\bin\Debug\net6.0\ConsoleApp28.runtimeconfig.json
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp28\ConsoleApp28\bin\Debug\net6.0\ConsoleApp28.dll
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp28\ConsoleApp28\bin\Debug\net6.0\ref\ConsoleApp28.dll
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp28\ConsoleApp28\bin\Debug\net6.0\ConsoleApp28.pdb
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\net6.0\ConsoleApp28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\net6.0\ConsoleApp28.AssemblyInfoInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\net6.0\ConsoleApp28.AssemblyInfo.cs
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\net6.0\ConsoleApp28.csproj.CoreCompileInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\net6.0\ConsoleApp28.dll
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\net6.0\ref\ConsoleApp28.dll
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\net6.0\ConsoleApp28.pdb
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\net6.0\ConsoleApp28.genruntimeconfig.cache
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\net6.0\ConsoleApp28.csproj.AssemblyReference.cache

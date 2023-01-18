@@ -1,0 +1,15 @@
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\net6.0\ConsoleApp27.exe
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\net6.0\ConsoleApp27.deps.json
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\net6.0\ConsoleApp27.runtimeconfig.json
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\net6.0\ConsoleApp27.dll
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\net6.0\ref\ConsoleApp27.dll
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\net6.0\ConsoleApp27.pdb
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\net6.0\ConsoleApp27.csproj.AssemblyReference.cache
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\net6.0\ConsoleApp27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\net6.0\ConsoleApp27.AssemblyInfoInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\net6.0\ConsoleApp27.AssemblyInfo.cs
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\net6.0\ConsoleApp27.csproj.CoreCompileInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\net6.0\ConsoleApp27.dll
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\net6.0\ref\ConsoleApp27.dll
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\net6.0\ConsoleApp27.pdb
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\net6.0\ConsoleApp27.genruntimeconfig.cache

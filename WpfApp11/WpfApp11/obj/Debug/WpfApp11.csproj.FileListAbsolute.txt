@@ -1,0 +1,6 @@
+C:\Users\Kalhous Tomáš\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.AssemblyReference.cache
+C:\Users\Kalhous Tomáš\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kalhous Tomáš\source\repos\WpfApp11\WpfApp11\obj\Debug\MainWindow.g.cs
+C:\Users\Kalhous Tomáš\source\repos\WpfApp11\WpfApp11\obj\Debug\App.g.cs
+C:\Users\Kalhous Tomáš\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11_MarkupCompile.cache
+C:\Users\Kalhous Tomáš\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11_MarkupCompile.lref

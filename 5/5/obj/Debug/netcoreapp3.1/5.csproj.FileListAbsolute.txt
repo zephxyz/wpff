@@ -1,0 +1,13 @@
+C:\Users\Kalhous Tomáš\source\repos\5\5\bin\Debug\netcoreapp3.1\5.exe
+C:\Users\Kalhous Tomáš\source\repos\5\5\bin\Debug\netcoreapp3.1\5.deps.json
+C:\Users\Kalhous Tomáš\source\repos\5\5\bin\Debug\netcoreapp3.1\5.runtimeconfig.json
+C:\Users\Kalhous Tomáš\source\repos\5\5\bin\Debug\netcoreapp3.1\5.runtimeconfig.dev.json
+C:\Users\Kalhous Tomáš\source\repos\5\5\bin\Debug\netcoreapp3.1\5.dll
+C:\Users\Kalhous Tomáš\source\repos\5\5\bin\Debug\netcoreapp3.1\5.pdb
+C:\Users\Kalhous Tomáš\source\repos\5\5\obj\Debug\netcoreapp3.1\5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalhous Tomáš\source\repos\5\5\obj\Debug\netcoreapp3.1\5.AssemblyInfoInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\5\5\obj\Debug\netcoreapp3.1\5.AssemblyInfo.cs
+C:\Users\Kalhous Tomáš\source\repos\5\5\obj\Debug\netcoreapp3.1\5.csproj.CoreCompileInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\5\5\obj\Debug\netcoreapp3.1\5.dll
+C:\Users\Kalhous Tomáš\source\repos\5\5\obj\Debug\netcoreapp3.1\5.pdb
+C:\Users\Kalhous Tomáš\source\repos\5\5\obj\Debug\netcoreapp3.1\5.genruntimeconfig.cache

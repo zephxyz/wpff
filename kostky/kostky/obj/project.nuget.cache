@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IeuXBeUWjBE66AC17n/KX4PmbYWTsCIuVZpyH6/KhWbTiI0UddGgEip8C0dqRtaGEhy1k0OoC3iscqyzxxwmEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kalhous Tomáš\\source\\repos\\kostky\\kostky\\kostky.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kalhous Tomáš\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

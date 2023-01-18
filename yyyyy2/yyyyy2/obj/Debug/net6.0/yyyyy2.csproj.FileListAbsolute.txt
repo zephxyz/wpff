@@ -1,0 +1,14 @@
+C:\Users\Kalhous Tomáš\source\repos\yyyyy2\yyyyy2\bin\Debug\net6.0\yyyyy2.exe
+C:\Users\Kalhous Tomáš\source\repos\yyyyy2\yyyyy2\bin\Debug\net6.0\yyyyy2.deps.json
+C:\Users\Kalhous Tomáš\source\repos\yyyyy2\yyyyy2\bin\Debug\net6.0\yyyyy2.runtimeconfig.json
+C:\Users\Kalhous Tomáš\source\repos\yyyyy2\yyyyy2\bin\Debug\net6.0\yyyyy2.dll
+C:\Users\Kalhous Tomáš\source\repos\yyyyy2\yyyyy2\bin\Debug\net6.0\ref\yyyyy2.dll
+C:\Users\Kalhous Tomáš\source\repos\yyyyy2\yyyyy2\bin\Debug\net6.0\yyyyy2.pdb
+C:\Users\Kalhous Tomáš\source\repos\yyyyy2\yyyyy2\obj\Debug\net6.0\yyyyy2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalhous Tomáš\source\repos\yyyyy2\yyyyy2\obj\Debug\net6.0\yyyyy2.AssemblyInfoInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\yyyyy2\yyyyy2\obj\Debug\net6.0\yyyyy2.AssemblyInfo.cs
+C:\Users\Kalhous Tomáš\source\repos\yyyyy2\yyyyy2\obj\Debug\net6.0\yyyyy2.csproj.CoreCompileInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\yyyyy2\yyyyy2\obj\Debug\net6.0\yyyyy2.dll
+C:\Users\Kalhous Tomáš\source\repos\yyyyy2\yyyyy2\obj\Debug\net6.0\ref\yyyyy2.dll
+C:\Users\Kalhous Tomáš\source\repos\yyyyy2\yyyyy2\obj\Debug\net6.0\yyyyy2.pdb
+C:\Users\Kalhous Tomáš\source\repos\yyyyy2\yyyyy2\obj\Debug\net6.0\yyyyy2.genruntimeconfig.cache

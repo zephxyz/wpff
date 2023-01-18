@@ -1,0 +1,15 @@
+C:\Users\Kalhous Tomáš\source\repos\bruho momento\bruho momento\bin\Debug\net6.0\bruho momento.exe
+C:\Users\Kalhous Tomáš\source\repos\bruho momento\bruho momento\bin\Debug\net6.0\bruho momento.deps.json
+C:\Users\Kalhous Tomáš\source\repos\bruho momento\bruho momento\bin\Debug\net6.0\bruho momento.runtimeconfig.json
+C:\Users\Kalhous Tomáš\source\repos\bruho momento\bruho momento\bin\Debug\net6.0\bruho momento.dll
+C:\Users\Kalhous Tomáš\source\repos\bruho momento\bruho momento\bin\Debug\net6.0\ref\bruho momento.dll
+C:\Users\Kalhous Tomáš\source\repos\bruho momento\bruho momento\bin\Debug\net6.0\bruho momento.pdb
+C:\Users\Kalhous Tomáš\source\repos\bruho momento\bruho momento\obj\Debug\net6.0\bruho momento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalhous Tomáš\source\repos\bruho momento\bruho momento\obj\Debug\net6.0\bruho momento.AssemblyInfoInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\bruho momento\bruho momento\obj\Debug\net6.0\bruho momento.AssemblyInfo.cs
+C:\Users\Kalhous Tomáš\source\repos\bruho momento\bruho momento\obj\Debug\net6.0\bruho momento.csproj.CoreCompileInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\bruho momento\bruho momento\obj\Debug\net6.0\bruho momento.dll
+C:\Users\Kalhous Tomáš\source\repos\bruho momento\bruho momento\obj\Debug\net6.0\ref\bruho momento.dll
+C:\Users\Kalhous Tomáš\source\repos\bruho momento\bruho momento\obj\Debug\net6.0\bruho momento.pdb
+C:\Users\Kalhous Tomáš\source\repos\bruho momento\bruho momento\obj\Debug\net6.0\bruho momento.genruntimeconfig.cache
+C:\Users\Kalhous Tomáš\source\repos\bruho momento\bruho momento\obj\Debug\net6.0\bruho momento.csproj.AssemblyReference.cache

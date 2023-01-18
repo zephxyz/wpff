@@ -1,0 +1,16 @@
+C:\Users\Kalhous Tomáš\source\repos\du2\du2\bin\Debug\net5.0\du2.exe
+C:\Users\Kalhous Tomáš\source\repos\du2\du2\bin\Debug\net5.0\du2.deps.json
+C:\Users\Kalhous Tomáš\source\repos\du2\du2\bin\Debug\net5.0\du2.runtimeconfig.json
+C:\Users\Kalhous Tomáš\source\repos\du2\du2\bin\Debug\net5.0\du2.runtimeconfig.dev.json
+C:\Users\Kalhous Tomáš\source\repos\du2\du2\bin\Debug\net5.0\du2.dll
+C:\Users\Kalhous Tomáš\source\repos\du2\du2\bin\Debug\net5.0\ref\du2.dll
+C:\Users\Kalhous Tomáš\source\repos\du2\du2\bin\Debug\net5.0\du2.pdb
+C:\Users\Kalhous Tomáš\source\repos\du2\du2\obj\Debug\net5.0\du2.csproj.AssemblyReference.cache
+C:\Users\Kalhous Tomáš\source\repos\du2\du2\obj\Debug\net5.0\du2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalhous Tomáš\source\repos\du2\du2\obj\Debug\net5.0\du2.AssemblyInfoInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\du2\du2\obj\Debug\net5.0\du2.AssemblyInfo.cs
+C:\Users\Kalhous Tomáš\source\repos\du2\du2\obj\Debug\net5.0\du2.csproj.CoreCompileInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\du2\du2\obj\Debug\net5.0\du2.dll
+C:\Users\Kalhous Tomáš\source\repos\du2\du2\obj\Debug\net5.0\ref\du2.dll
+C:\Users\Kalhous Tomáš\source\repos\du2\du2\obj\Debug\net5.0\du2.pdb
+C:\Users\Kalhous Tomáš\source\repos\du2\du2\obj\Debug\net5.0\du2.genruntimeconfig.cache

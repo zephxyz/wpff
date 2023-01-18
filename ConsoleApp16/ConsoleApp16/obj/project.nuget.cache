@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MOb5ONYFZcLpQQQyZYBaulICB2+iQBx6LxuSYev5ysxUV7DbGLJUaFUWW3E7ij7IaI/bT9OWqn8aDnyUXrzWOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kalhous Tomáš\\source\\repos\\ConsoleApp16\\ConsoleApp16\\ConsoleApp16.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kalhous Tomáš\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

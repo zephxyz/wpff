@@ -1,0 +1,16 @@
+C:\Users\Kalhous Tomáš\source\repos\pokracovat\pokracovat\bin\Debug\net5.0\pokracovat.exe
+C:\Users\Kalhous Tomáš\source\repos\pokracovat\pokracovat\bin\Debug\net5.0\pokracovat.deps.json
+C:\Users\Kalhous Tomáš\source\repos\pokracovat\pokracovat\bin\Debug\net5.0\pokracovat.runtimeconfig.json
+C:\Users\Kalhous Tomáš\source\repos\pokracovat\pokracovat\bin\Debug\net5.0\pokracovat.runtimeconfig.dev.json
+C:\Users\Kalhous Tomáš\source\repos\pokracovat\pokracovat\bin\Debug\net5.0\pokracovat.dll
+C:\Users\Kalhous Tomáš\source\repos\pokracovat\pokracovat\bin\Debug\net5.0\ref\pokracovat.dll
+C:\Users\Kalhous Tomáš\source\repos\pokracovat\pokracovat\bin\Debug\net5.0\pokracovat.pdb
+C:\Users\Kalhous Tomáš\source\repos\pokracovat\pokracovat\obj\Debug\net5.0\pokracovat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalhous Tomáš\source\repos\pokracovat\pokracovat\obj\Debug\net5.0\pokracovat.AssemblyInfoInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\pokracovat\pokracovat\obj\Debug\net5.0\pokracovat.AssemblyInfo.cs
+C:\Users\Kalhous Tomáš\source\repos\pokracovat\pokracovat\obj\Debug\net5.0\pokracovat.csproj.CoreCompileInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\pokracovat\pokracovat\obj\Debug\net5.0\pokracovat.dll
+C:\Users\Kalhous Tomáš\source\repos\pokracovat\pokracovat\obj\Debug\net5.0\ref\pokracovat.dll
+C:\Users\Kalhous Tomáš\source\repos\pokracovat\pokracovat\obj\Debug\net5.0\pokracovat.pdb
+C:\Users\Kalhous Tomáš\source\repos\pokracovat\pokracovat\obj\Debug\net5.0\pokracovat.genruntimeconfig.cache
+C:\Users\Kalhous Tomáš\source\repos\pokracovat\pokracovat\obj\Debug\net5.0\pokracovat.csproj.AssemblyReference.cache

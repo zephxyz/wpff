@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C3J8Z/5pdy4Qz06kI1Lf868cJJxr58JtaWpssRji7pWiRgxZIMkSK3bOmWoRC1eLGx8N+RUo+CaR0iRQj0xwtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kalhous Tomáš\\source\\repos\\gae\\gae\\gae.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kalhous Tomáš\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

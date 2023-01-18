@@ -1,0 +1,16 @@
+C:\Users\Kalhous Tomáš\source\repos\new\new\bin\Debug\net5.0\new.exe
+C:\Users\Kalhous Tomáš\source\repos\new\new\bin\Debug\net5.0\new.deps.json
+C:\Users\Kalhous Tomáš\source\repos\new\new\bin\Debug\net5.0\new.runtimeconfig.json
+C:\Users\Kalhous Tomáš\source\repos\new\new\bin\Debug\net5.0\new.runtimeconfig.dev.json
+C:\Users\Kalhous Tomáš\source\repos\new\new\bin\Debug\net5.0\new.dll
+C:\Users\Kalhous Tomáš\source\repos\new\new\bin\Debug\net5.0\ref\new.dll
+C:\Users\Kalhous Tomáš\source\repos\new\new\bin\Debug\net5.0\new.pdb
+C:\Users\Kalhous Tomáš\source\repos\new\new\obj\Debug\net5.0\new.csproj.AssemblyReference.cache
+C:\Users\Kalhous Tomáš\source\repos\new\new\obj\Debug\net5.0\new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalhous Tomáš\source\repos\new\new\obj\Debug\net5.0\new.AssemblyInfoInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\new\new\obj\Debug\net5.0\new.AssemblyInfo.cs
+C:\Users\Kalhous Tomáš\source\repos\new\new\obj\Debug\net5.0\new.csproj.CoreCompileInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\new\new\obj\Debug\net5.0\new.dll
+C:\Users\Kalhous Tomáš\source\repos\new\new\obj\Debug\net5.0\ref\new.dll
+C:\Users\Kalhous Tomáš\source\repos\new\new\obj\Debug\net5.0\new.pdb
+C:\Users\Kalhous Tomáš\source\repos\new\new\obj\Debug\net5.0\new.genruntimeconfig.cache

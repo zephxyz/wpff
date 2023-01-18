@@ -1,0 +1,15 @@
+C:\Users\Kalhous Tomáš\source\repos\a-test3\a-test3\bin\Debug\net5.0\a-test3.exe
+C:\Users\Kalhous Tomáš\source\repos\a-test3\a-test3\bin\Debug\net5.0\a-test3.deps.json
+C:\Users\Kalhous Tomáš\source\repos\a-test3\a-test3\bin\Debug\net5.0\a-test3.runtimeconfig.json
+C:\Users\Kalhous Tomáš\source\repos\a-test3\a-test3\bin\Debug\net5.0\a-test3.runtimeconfig.dev.json
+C:\Users\Kalhous Tomáš\source\repos\a-test3\a-test3\bin\Debug\net5.0\a-test3.dll
+C:\Users\Kalhous Tomáš\source\repos\a-test3\a-test3\bin\Debug\net5.0\ref\a-test3.dll
+C:\Users\Kalhous Tomáš\source\repos\a-test3\a-test3\bin\Debug\net5.0\a-test3.pdb
+C:\Users\Kalhous Tomáš\source\repos\a-test3\a-test3\obj\Debug\net5.0\a-test3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalhous Tomáš\source\repos\a-test3\a-test3\obj\Debug\net5.0\a-test3.AssemblyInfoInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\a-test3\a-test3\obj\Debug\net5.0\a-test3.AssemblyInfo.cs
+C:\Users\Kalhous Tomáš\source\repos\a-test3\a-test3\obj\Debug\net5.0\a-test3.csproj.CoreCompileInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\a-test3\a-test3\obj\Debug\net5.0\a-test3.dll
+C:\Users\Kalhous Tomáš\source\repos\a-test3\a-test3\obj\Debug\net5.0\ref\a-test3.dll
+C:\Users\Kalhous Tomáš\source\repos\a-test3\a-test3\obj\Debug\net5.0\a-test3.pdb
+C:\Users\Kalhous Tomáš\source\repos\a-test3\a-test3\obj\Debug\net5.0\a-test3.genruntimeconfig.cache

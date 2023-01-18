@@ -1,0 +1,16 @@
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.exe
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.deps.json
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.runtimeconfig.json
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.runtimeconfig.dev.json
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.dll
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ref\ConsoleApp7.dll
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.pdb
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.csproj.AssemblyReference.cache
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.AssemblyInfoInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.AssemblyInfo.cs
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.dll
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ref\ConsoleApp7.dll
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.pdb
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.genruntimeconfig.cache

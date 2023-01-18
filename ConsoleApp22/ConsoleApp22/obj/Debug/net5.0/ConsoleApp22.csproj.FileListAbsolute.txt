@@ -1,0 +1,16 @@
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\net5.0\ConsoleApp22.exe
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\net5.0\ConsoleApp22.deps.json
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\net5.0\ConsoleApp22.runtimeconfig.json
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\net5.0\ConsoleApp22.runtimeconfig.dev.json
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\net5.0\ConsoleApp22.dll
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\net5.0\ref\ConsoleApp22.dll
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\net5.0\ConsoleApp22.pdb
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\net5.0\ConsoleApp22.csproj.AssemblyReference.cache
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\net5.0\ConsoleApp22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\net5.0\ConsoleApp22.AssemblyInfoInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\net5.0\ConsoleApp22.AssemblyInfo.cs
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\net5.0\ConsoleApp22.csproj.CoreCompileInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\net5.0\ConsoleApp22.dll
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\net5.0\ref\ConsoleApp22.dll
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\net5.0\ConsoleApp22.pdb
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\net5.0\ConsoleApp22.genruntimeconfig.cache

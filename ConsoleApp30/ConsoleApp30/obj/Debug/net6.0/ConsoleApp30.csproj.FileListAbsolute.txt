@@ -1,0 +1,15 @@
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\net6.0\ConsoleApp30.exe
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\net6.0\ConsoleApp30.deps.json
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\net6.0\ConsoleApp30.runtimeconfig.json
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\net6.0\ConsoleApp30.dll
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\net6.0\ref\ConsoleApp30.dll
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\net6.0\ConsoleApp30.pdb
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\net6.0\ConsoleApp30.csproj.AssemblyReference.cache
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\net6.0\ConsoleApp30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\net6.0\ConsoleApp30.AssemblyInfoInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\net6.0\ConsoleApp30.AssemblyInfo.cs
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\net6.0\ConsoleApp30.csproj.CoreCompileInputs.cache
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\net6.0\ConsoleApp30.dll
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\net6.0\ref\ConsoleApp30.dll
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\net6.0\ConsoleApp30.pdb
+C:\Users\Kalhous Tomáš\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\net6.0\ConsoleApp30.genruntimeconfig.cache
